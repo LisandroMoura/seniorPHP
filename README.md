@@ -69,7 +69,6 @@ aplicações PHP.
 - Configuração de Ambientes: Docker, Vagrant.
 - Cloud Services: AWS, Azure, Google Cloud.
 
-Comunidade PHP: https://phpcommunity.org/
 Cursos e Tutoriais: https://www.w3schools.com/php/
 Livros e Documentação: https://www.php.net/manual/en/index.php
 
