@@ -6,8 +6,6 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
-        "google/apiclient": "^2.15.0",
-        "illuminate/database": "*",
         "laravel/framework": "^11.9",
         "laravel/tinker": "^2.9"
     },
